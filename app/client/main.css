@@ -1,0 +1,4 @@
+/* CSS declarations go here */
+.open > .dropdown-menu{
+  display: grid;
+}
